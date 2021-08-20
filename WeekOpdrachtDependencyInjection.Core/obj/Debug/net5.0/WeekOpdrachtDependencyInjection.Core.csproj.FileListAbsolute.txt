@@ -1,0 +1,12 @@
+C:\Users\CDHel\Desktop\PillarsOfOOP_WeekOpdracht-main\WeekOpdrachtDependencyInjection.Core\bin\Debug\net5.0\WeekOpdrachtDependencyInjection.Core.deps.json
+C:\Users\CDHel\Desktop\PillarsOfOOP_WeekOpdracht-main\WeekOpdrachtDependencyInjection.Core\bin\Debug\net5.0\WeekOpdrachtDependencyInjection.Core.dll
+C:\Users\CDHel\Desktop\PillarsOfOOP_WeekOpdracht-main\WeekOpdrachtDependencyInjection.Core\bin\Debug\net5.0\ref\WeekOpdrachtDependencyInjection.Core.dll
+C:\Users\CDHel\Desktop\PillarsOfOOP_WeekOpdracht-main\WeekOpdrachtDependencyInjection.Core\bin\Debug\net5.0\WeekOpdrachtDependencyInjection.Core.pdb
+C:\Users\CDHel\Desktop\PillarsOfOOP_WeekOpdracht-main\WeekOpdrachtDependencyInjection.Core\obj\Debug\net5.0\WeekOpdrachtDependencyInjection.Core.csprojAssemblyReference.cache
+C:\Users\CDHel\Desktop\PillarsOfOOP_WeekOpdracht-main\WeekOpdrachtDependencyInjection.Core\obj\Debug\net5.0\WeekOpdrachtDependencyInjection.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CDHel\Desktop\PillarsOfOOP_WeekOpdracht-main\WeekOpdrachtDependencyInjection.Core\obj\Debug\net5.0\WeekOpdrachtDependencyInjection.Core.AssemblyInfoInputs.cache
+C:\Users\CDHel\Desktop\PillarsOfOOP_WeekOpdracht-main\WeekOpdrachtDependencyInjection.Core\obj\Debug\net5.0\WeekOpdrachtDependencyInjection.Core.AssemblyInfo.cs
+C:\Users\CDHel\Desktop\PillarsOfOOP_WeekOpdracht-main\WeekOpdrachtDependencyInjection.Core\obj\Debug\net5.0\WeekOpdrachtDependencyInjection.Core.csproj.CoreCompileInputs.cache
+C:\Users\CDHel\Desktop\PillarsOfOOP_WeekOpdracht-main\WeekOpdrachtDependencyInjection.Core\obj\Debug\net5.0\WeekOpdrachtDependencyInjection.Core.dll
+C:\Users\CDHel\Desktop\PillarsOfOOP_WeekOpdracht-main\WeekOpdrachtDependencyInjection.Core\obj\Debug\net5.0\ref\WeekOpdrachtDependencyInjection.Core.dll
+C:\Users\CDHel\Desktop\PillarsOfOOP_WeekOpdracht-main\WeekOpdrachtDependencyInjection.Core\obj\Debug\net5.0\WeekOpdrachtDependencyInjection.Core.pdb

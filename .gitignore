@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/WeekOpdrachtDependencyInjection/.vs/WeekOpdrachtDependencyInjection
+/WeekOpdrachtDependencyInjection/bin/Debug/net5.0
+/WeekOpdrachtDependencyInjection/obj
+/WeekOpdrachtDependencyInjection.Business/bin/Debug/net5.0
+/WeekOpdrachtDependencyInjection.Business/obj
